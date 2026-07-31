@@ -1,11 +1,12 @@
 import './App.css'
+import Header from './components/Header'
 
 function App() {
 
   return (
-    <>
-      <h1 class="text-3xl font-bold">Hello Todo</h1>
-    </>
+    <div className="min-h-screen text-slate-800 dark:text-slate-100">
+        <Header />
+    </div>
   )
 }
 
