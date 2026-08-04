@@ -5,7 +5,7 @@ A simple todo app built with React, Tailwind CSS, and React Router.
 ## Features
 
 - Add, edit, delete, and complete tasks
-- Filter by all / active / completed
+- Filter by all / active / completed.  
 - Dark mode toggle
 - Stats page showing progress
 - Tasks saved automatically in your browser (localStorage)
